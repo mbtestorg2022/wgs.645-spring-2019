@@ -47,13 +47,66 @@ Required Books
 Course Requirements
 -------------------
 
-| Activity | points |
-| --- | --- |
-| Attendance and Participation | 20 |
-| Individual Presentation/Blog Posts | 30 |
-| Group Project | 30 |
-| Research Paper | 20 |
-| **Total** | **100** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activity
+{{< thclose >}}
+{{< thopen >}}
+points
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Presentation/Blog Posts
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Project
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**100**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "attend" >}}{{< /anchor >}}Attendance and Participation
 ------------------------------------------------------------------
@@ -73,20 +126,129 @@ Grading
 
 Students will receive letter grades for this course. Grades will be assigned as follows, based on the total accumulated points received (100 point range) for al requirements. 
 
-| requirement | Grade |
-| --- | --- |
-| Excellent in all respects | A:   100–93 |
-| Good in all and excellent in most respects | A-:  90–92 |
-| Good in all and excellent in a few respects | B+: 87–89 |
-| Good in all respects | B:   83–86 |
-| Minimally acceptable in all and good in most respects  | B-:  80–82 |
-| Minimally acceptable in all and good in a few respects | C+: 77–79 |
-| Minimally acceptable in all respects | C:   73–76 |
-| Largely unacceptable | C-:  70–72 |
-| Unacceptable | D+: 67–69 |
-| Unacceptable  | D:   63–66 |
-| Unacceptable | D-:  60–62 |
-| Failed | F:    0–59 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+requirement
+{{< thclose >}}
+{{< thopen >}}
+Grade
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Excellent in all respects
+{{< tdclose >}}
+{{< tdopen >}}
+A:   100–93
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Good in all and excellent in most respects
+{{< tdclose >}}
+{{< tdopen >}}
+A-:  90–92
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Good in all and excellent in a few respects
+{{< tdclose >}}
+{{< tdopen >}}
+B+: 87–89
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Good in all respects
+{{< tdclose >}}
+{{< tdopen >}}
+B:   83–86
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Minimally acceptable in all and good in most respects 
+{{< tdclose >}}
+{{< tdopen >}}
+B-:  80–82
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Minimally acceptable in all and good in a few respects
+{{< tdclose >}}
+{{< tdopen >}}
+C+: 77–79
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Minimally acceptable in all respects
+{{< tdclose >}}
+{{< tdopen >}}
+C:   73–76
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Largely unacceptable
+{{< tdclose >}}
+{{< tdopen >}}
+C-:  70–72
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Unacceptable
+{{< tdclose >}}
+{{< tdopen >}}
+D+: 67–69
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Unacceptable 
+{{< tdclose >}}
+{{< tdopen >}}
+D:   63–66
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Unacceptable
+{{< tdclose >}}
+{{< tdopen >}}
+D-:  60–62
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Failed
+{{< tdclose >}}
+{{< tdopen >}}
+F:    0–59
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "policies" >}}{{< /anchor >}}Course Policies
 -------------------------------------------------------
