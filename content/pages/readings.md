@@ -190,7 +190,7 @@ Gendered Migration Flows and Labor Recruitment Practices
 {{< tdopen >}}
 
 
-Bernhardt, Annette, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Broken Laws, Unprotected Workers” (PDF - 1.1MB)](https://www.nelp.org/wp-content/uploads/2015/03/BrokenLawsReport2009.pdf). National Employment Law Project. New York: NELP (2009).
+Bernhardt, Annette, et al. "[Broken Laws, Unprotected Workers” (PDF - 1.1MB)](https://www.nelp.org/wp-content/uploads/2015/03/BrokenLawsReport2009.pdf). National Employment Law Project. New York: NELP (2009).
 
 Boehm, Deborah. “[‘Now I Am a Man and a Woman!’: Gendered Moves and Migrations in a Transnational Mexican Community](https://doi.org/10.1177%2F0094582X07310843).” _Latin American Perspectives_ 35:1 (2008): 16–30.
 
